@@ -1,0 +1,1 @@
+# Terminal-Management-Cellcore-2026

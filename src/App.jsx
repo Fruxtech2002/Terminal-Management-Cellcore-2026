@@ -9,7 +9,6 @@ import { Toaster } from "react-hot-toast";
 import ConfirmationPage from "./Layout/ConfirmationPage";
 
 const App = () => {
-
   
  const route = createBrowserRouter([
     {
